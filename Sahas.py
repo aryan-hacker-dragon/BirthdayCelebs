@@ -31,7 +31,6 @@ Here's to another year of laughter, love, and unforgettable memories. May your b
 Cheers to you, Sahas! 🌟""")
     
     st.markdown("### 🎂 Let's Celebrate! 🥳")
-
 if st.button("Reload Image"):
     bithday_wish_app()
 
