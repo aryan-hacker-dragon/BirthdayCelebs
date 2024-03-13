@@ -28,7 +28,13 @@ As you blow out the candles, remember that you have a community of friends and l
 
 Here's to another year of laughter, love, and unforgettable memories. May your birthday be as fantastic as you are! 🥳🎁
 
-Cheers to you, Sahas! 🌟""")
+Cheers to you, Sahas! 🌟
+
+
+
+
+
+From Aryan.""")
     
     st.markdown("### 🎂 Let's Celebrate! 🥳")
 if st.button("Reload Image"):
