@@ -3,7 +3,7 @@ import os
 import random
 
 def get_random_birthday_image():
-    birthday_image_folder = "birthday_images"
+    birthday_image_folder = "Friends"
     images = [img for img in os.listdir(birthday_image_folder) if img.endswith(".jpg")]
     random_image = random.choice(images)
     return os.path.join(Friends, random_image)
