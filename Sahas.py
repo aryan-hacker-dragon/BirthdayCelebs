@@ -32,7 +32,8 @@ Cheers to you, Sahas! 🌟""")
     
     st.markdown("### 🎂 Let's Celebrate! 🥳")
 
-
+ if st.button("Reload Image"):
+        st.experimental_rerun()
 
     # # Text input for user's birthday message
     # birthday_message = st.text_area("Your Birthday Message:", max_chars=280)
@@ -45,5 +46,4 @@ Cheers to you, Sahas! 🌟""")
 
 if __name__ == "__main__":
     birthday_wish_app()
-    if st.button("Reload Image"):
-        birthday_wish_app()
+   
