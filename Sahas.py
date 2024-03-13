@@ -22,13 +22,13 @@ def birthday_wish_app():
     
     st.write("""On this special day, I wish you a year filled with joy, growth, and incredible moments. May every day bring new opportunities, and may you find success and satisfaction in all your endeavors.
 
-    Sahas, your presence lights up the lives of those around you. Your kindness, determination, and enthusiasm are truly inspiring. May the coming year be a chapter of endless possibilities, where your dreams unfold and your goals are realized.
+Sahas, your presence lights up the lives of those around you. Your kindness, determination, and enthusiasm are truly inspiring. May the coming year be a chapter of endless possibilities, where your dreams unfold and your goals are realized.
 
-    As you blow out the candles, remember that you have a community of friends and loved ones cheering you on. Cherish the moments, embrace the challenges, and celebrate the victories.
+As you blow out the candles, remember that you have a community of friends and loved ones cheering you on. Cherish the moments, embrace the challenges, and celebrate the victories.
 
-    Here's to another year of laughter, love, and unforgettable memories. May your birthday be as fantastic as you are! 🥳🎁
+Here's to another year of laughter, love, and unforgettable memories. May your birthday be as fantastic as you are! 🥳🎁
 
-    Cheers to you, Sahas! 🌟""")
+Cheers to you, Sahas! 🌟""")
     
     st.markdown("### 🎂 Let's Celebrate! 🥳")
 
