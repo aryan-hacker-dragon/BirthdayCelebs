@@ -6,7 +6,7 @@ def get_random_birthday_image():
     birthday_image_folder = "birthday_images"
     images = [img for img in os.listdir(birthday_image_folder) if img.endswith(".jpg")]
     random_image = random.choice(images)
-    return os.path.join(birthday_image_folder, random_image)
+    return os.path.join(Friends, random_image)
 
 def birthday_wish_app():
     st.title("🎉 Birthday Wishes 🎂")
