@@ -18,7 +18,7 @@ def birthday_wish_app():
     
     st.write("Wishing you a day filled with joy, laughter, and lots of love.")
     
-    st.markdown("### 🎂 Let's Celebrate! 🥳")
+   
     
     st.write("""On this special day, I wish you a year filled with joy, growth, and incredible moments. May every day bring new opportunities, and may you find success and satisfaction in all your endeavors.
 
@@ -29,7 +29,12 @@ As you blow out the candles, remember that you have a community of friends and l
 Here's to another year of laughter, love, and unforgettable memories. May your birthday be as fantastic as you are! 🥳🎁
 
 Cheers to you, Sahas! 🌟""")
+    
+     st.markdown("### 🎂 Let's Celebrate! 🥳")
 
+
+if st.button("Reload Image"):
+        birthday_wish_app()
     # # Text input for user's birthday message
     # birthday_message = st.text_area("Your Birthday Message:", max_chars=280)
 
