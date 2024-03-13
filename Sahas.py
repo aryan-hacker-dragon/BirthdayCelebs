@@ -32,8 +32,7 @@ Cheers to you, Sahas! 🌟""")
     
     st.markdown("### 🎂 Let's Celebrate! 🥳")
 if st.button("Run Custom Function"):
-        birthday_wish_app()
-
+    st.experimental_rerun()
     # # Text input for user's birthday message
     # birthday_message = st.text_area("Your Birthday Message:", max_chars=280)
 
